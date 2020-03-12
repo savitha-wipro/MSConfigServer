@@ -1,3 +1,1 @@
-pivotal:
-  tradeservice:
-    name: trade-service
+pivotal.tradeservice.name: trade-service
